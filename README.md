@@ -5,7 +5,7 @@ Zadanie z laboratoriów 9 z przedmiotu PRiR. Program w Google Colab mnożący ma
 ![image](https://user-images.githubusercontent.com/80594314/149622324-335714bc-e9d6-4d47-a932-0b174b1d8d42.png)
 
 Wnioski:
-Gpu jest zdecydowanie szybsze niż CPU co widać odrazu po spojrzeniu na wykres.
+Gpu jest zdecydowanie szybsze niż CPU co widać odrazu po spojrzeniu na wykres. Czasy dla GPU są tak bliskie 0 że może się wydawać na wykresie, że faktycznie są one równe 0s.
 
 Tabela z otzrymanymi wartościami:
 
